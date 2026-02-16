@@ -11,7 +11,7 @@ C# Window Forms, Visual Studio, GitHub
 
 ## วิธีโหลด
 
-1. เข้า github และเข้าสู่ระบบ(ถ้าไม่มีให้สมัคร)
+1. เข้า github และเข้าสู่ระบบ (ถ้ายังไม่เข้าสู่ระบบ)
 2. เชื่อมไอดี github เข้ากับ visual code studio
 3. กดปุ่ม <>code และกด open with visual studio
 4. กด open visual studio
