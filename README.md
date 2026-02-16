@@ -21,7 +21,7 @@ C# Window Forms, Visual Studio, GitHub
 1. เปิดโปรแกรม
 2. คลิกที่ปุ่ม >Start
 
-## คำอธิบานหน้าจอ
+## คำอธิบายหน้าจอ
 
 1. AppointmentID (รหัสนัดหมาย)
 2. Subject (หัวข้อการนัด)
